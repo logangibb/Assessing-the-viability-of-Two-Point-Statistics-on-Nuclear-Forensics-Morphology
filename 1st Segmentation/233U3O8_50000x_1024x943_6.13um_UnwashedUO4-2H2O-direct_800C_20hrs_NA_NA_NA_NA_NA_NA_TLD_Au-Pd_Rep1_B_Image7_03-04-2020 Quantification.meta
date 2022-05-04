@@ -1,0 +1,13 @@
+=============================================================================
+WORKFLOW, ANALYSIS  = 1, 2567
+CREATED             =  (2021-06-03 17:50:48)
+
+IMAGE               = 233U3O8_50000x_1024x943_6.13um_UnwashedUO4-2H2O-direct_800C_20hrs_NA_NA_NA_NA_NA_NA_TLD_Au-Pd_Rep1_B_Image7_03-04-2020.tif (1)
+SCALE               = 1.024000e+003 pixels = 6.130000e+000 um
+SAMPLE              = 233U3O8_50000x_1024x943_6.13um_UnwashedUO4-2H2O-direct_800C_20hrs_NA_NA_NA_NA_NA_NA_TLD_Au-Pd_Rep1_B_Image7_03-04-2020
+
+LABELS USED         = Particles
+LABEL SET           = WF1(1) : Unlabeled, , Foreground, Not quantified
+
+LEXICON
+
